@@ -1,6 +1,5 @@
 // Assignment #: 2
 //         Name: Joseph Kharzo
-//    StudentID: 1218555299
 //      Lecture: TTH 1:30-2:45pm
 //   Time spent: 20 minutes
 //  Description: This program collects an unspecified amount of numbers from the user
